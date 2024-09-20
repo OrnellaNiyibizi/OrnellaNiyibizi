@@ -1,8 +1,8 @@
-# Hello 👋 my name is Ornella Mahoro
+# Hello 👋 I am Ornella a.k.a Riri!
 
 ## Software Engineer
 
-. 🇷🇼 I am a young Rwandan woman passionate about technology and it's potential to change the my country Rwanda
+. 🇷🇼 Software developer with a love for clean and innovative solutions. Constantly exploring new ideas and contributing to open-source projects.
 
 ### Skills
 
